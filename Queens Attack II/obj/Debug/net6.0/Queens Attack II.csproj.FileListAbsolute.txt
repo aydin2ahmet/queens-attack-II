@@ -1,0 +1,15 @@
+C:\Users\acatg\source\repos\Questions\Queens Attack II\Queens Attack II\bin\Debug\net6.0\Queens Attack II.exe
+C:\Users\acatg\source\repos\Questions\Queens Attack II\Queens Attack II\bin\Debug\net6.0\Queens Attack II.deps.json
+C:\Users\acatg\source\repos\Questions\Queens Attack II\Queens Attack II\bin\Debug\net6.0\Queens Attack II.runtimeconfig.json
+C:\Users\acatg\source\repos\Questions\Queens Attack II\Queens Attack II\bin\Debug\net6.0\Queens Attack II.dll
+C:\Users\acatg\source\repos\Questions\Queens Attack II\Queens Attack II\bin\Debug\net6.0\Queens Attack II.pdb
+C:\Users\acatg\source\repos\Questions\Queens Attack II\Queens Attack II\obj\Debug\net6.0\Queens Attack II.csproj.AssemblyReference.cache
+C:\Users\acatg\source\repos\Questions\Queens Attack II\Queens Attack II\obj\Debug\net6.0\Queens Attack II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acatg\source\repos\Questions\Queens Attack II\Queens Attack II\obj\Debug\net6.0\Queens Attack II.AssemblyInfoInputs.cache
+C:\Users\acatg\source\repos\Questions\Queens Attack II\Queens Attack II\obj\Debug\net6.0\Queens Attack II.AssemblyInfo.cs
+C:\Users\acatg\source\repos\Questions\Queens Attack II\Queens Attack II\obj\Debug\net6.0\Queens Attack II.csproj.CoreCompileInputs.cache
+C:\Users\acatg\source\repos\Questions\Queens Attack II\Queens Attack II\obj\Debug\net6.0\Queens Attack II.dll
+C:\Users\acatg\source\repos\Questions\Queens Attack II\Queens Attack II\obj\Debug\net6.0\refint\Queens Attack II.dll
+C:\Users\acatg\source\repos\Questions\Queens Attack II\Queens Attack II\obj\Debug\net6.0\Queens Attack II.pdb
+C:\Users\acatg\source\repos\Questions\Queens Attack II\Queens Attack II\obj\Debug\net6.0\Queens Attack II.genruntimeconfig.cache
+C:\Users\acatg\source\repos\Questions\Queens Attack II\Queens Attack II\obj\Debug\net6.0\ref\Queens Attack II.dll
